@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://heartsync-547827c2.zappy5.app/sitemap.xml

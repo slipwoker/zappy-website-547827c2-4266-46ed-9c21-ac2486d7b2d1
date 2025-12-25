@@ -1,0 +1,57 @@
+# HeartSync — Generative Engine Optimization Map
+
+> A relationships and personal development business.
+
+---
+
+## Pages
+
+### Home
+https://heartsync-547827c2.zappy5.app
+Discover your unique love language with our free online assessment. Take the 5 love languages test and receive personalized results to strengthen your relationships.
+
+### Services
+https://heartsync-547827c2.zappy5.app/services
+Take our comprehensive 5 love languages test online and receive detailed assessment results. Free love language quiz with personalized insights for better relationships.
+
+### About
+https://heartsync-547827c2.zappy5.app/about
+Learn about HeartSync's mission to help people discover their love language through our free online quiz. Understand the science behind love languages assessment.
+
+### Contact
+https://heartsync-547827c2.zappy5.app/contact
+Contact HeartSync for questions about our love language quiz. Get support with your 5 love languages test online results or request expert consultation.
+
+## Legal & Policy
+
+### Privacy Policy
+https://heartsync-547827c2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://heartsync-547827c2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://heartsync-547827c2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About HeartSync
+HeartSync is a business in the relationships and personal development industry.
+
+## Target Audience
+couples and individuals interested in understanding love languages
+
+## Industry
+relationships and personal development
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://heartsync-547827c2.zappy5.app/sitemap.xml
+- **Robots.txt**: https://heartsync-547827c2.zappy5.app/robots.txt
